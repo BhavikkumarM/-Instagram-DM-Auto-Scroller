@@ -1,5 +1,5 @@
 # 📜 Instagram DM Auto-Scroller
-
+Checkout the code in insta1.py 
 This Python script automates scrolling to the **very first message** in an Instagram DM conversation — no clicking, no dragging.
 Reminds you of what was the first conversation with that special person . Those very first step which brought here
 ## 🔧 Features
